@@ -1,0 +1,26 @@
+2 GO
+1 Apple Lane 60 5 0
+1 Apple Road 80 10 0
+4 Bonus
+1 Strawberry Lane 100 15 1
+1 Strawberry Road 120 15 1
+6 Jail
+1 Grape Lane 140 20 2
+1 Grape Road 160 20 2
+1 Grape Close 180 25 2
+3 Retail Park
+1 Orange Street 180 25 3
+1 Orange Close 200 25 3
+8 Free Parking
+1 Banana Close 220 30 4
+1 Banana Lane 240 30 4
+5 Penalty
+1 Pear Road 260 35 5
+1 Pear Street 280 35 5
+7 Go to Jail
+1 Blackcurrant Lane 300 45 6
+1 Blackcurrant Road 300 45 6
+3 Retail Park
+1 Damson Road 380 45 7
+1 Damson Lane 400 50 7
+1 Damson Street 420 50 7

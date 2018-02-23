@@ -1,0 +1,12 @@
+﻿  CProperty.cpp
+c:\users\ben\documents\visual studio 2012\projects\monopoly\monopoly\cgameobject.hpp(4): warning C4309: 'initializing' : truncation of constant value
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  CSquare.cpp
+  CSpecialSquare.cpp
+  CRetailPark.cpp
+  COwnableSquare.cpp
+  Main.cpp
+  CPlayer.cpp
+  CMonopoly.cpp
+  Monopoly.vcxproj -> C:\Users\Ben\Documents\Visual Studio 2012\Projects\Monopoly\Debug\Monopoly.exe
